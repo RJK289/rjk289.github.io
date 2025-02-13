@@ -86,7 +86,7 @@ body {
 .section {
   padding: 50px 20px;
   text-align: center;
-  background: #4384e6;
+  background: #d6dce3;
   margin: 20px;
   border-radius: 8px;
 }
@@ -104,7 +104,7 @@ body {
 
 /* Highlighted Section */
 .highlight {
-  background: #4384e6;
+  background: #d6dce3;
 }
 
 /* Section Links */
